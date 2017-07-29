@@ -24,5 +24,6 @@ public class Application {
         System.out.println("Деление дробей: \t" + num1 + " / " + num2 + " = " + divideNumber);
 
         System.out.println(num1.equals(num2));
+        System.out.println("\nEND");
     }
 }
